@@ -30,9 +30,19 @@ http://aevo.iasminmarques.com.br
 
 ## Como Executar o Projeto Localmente <br/>
 
-1. Instalar as dependencias: `npm install`
-2. Rodar o projeto: `ng serve`
-3. Acesse: `http://localhost:4200`
+1. Clonar o repositório:
+```
+git clone https://github.com/iasminimp/poke-aevo.git
+ ```
+2. Instalar as dependencias:
+```
+npm install
+```
+3. Rodar o projeto:
+```
+ng serve
+```
+4. Acesse: `http://localhost:4200`
 
 ## Componentes <br/>
 
